@@ -1,0 +1,1 @@
+Linux configs and scripts I use. Make it less painful for me when doing a fresh install 📡

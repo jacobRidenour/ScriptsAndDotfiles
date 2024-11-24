@@ -1,0 +1,20 @@
+[/]
+quake-height-percent=40
+quake-specific-monitor=0
+terminal-title-show-when-single=true
+theme-variant='dark'
+use-tabs=false
+
+[profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+background-color='#0C0C0C0C0C0C'
+background-transparency-percent=0
+cursor-blink-mode='system'
+cursor-shape='ibeam'
+dim-transparency-percent=0
+font='Anonymous Pro 13'
+foreground-color='#BFBFBFBFBFBF'
+palette=['#000000', '#C50F1E', '#13A10E', '#C19B00', '#0036DA', '#871698', '#009F9F', '#CCCCCC', '#A4A4A4A4A4A4', '#E74856', '#15C60B', '#F9F0A5', '#3B78FF', '#FF54FF', '#61D6D6', '#F2F2F2']
+scroll-on-output=true
+use-system-font=false
+use-theme-colors=false
+visible-name='JacobTerminal'
